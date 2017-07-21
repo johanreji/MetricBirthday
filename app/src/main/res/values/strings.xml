@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Metric Birthday</string>
+    <string name="cont">Enter Birthdate:</string>
+</resources>
